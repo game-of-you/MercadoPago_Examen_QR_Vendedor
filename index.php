@@ -150,7 +150,7 @@
 					Q4) Rejected payment:<br/><textarea id="paymentStatusRejected"></textarea><br/>
 					Q5) Payment Closed Status via Notification:<br/><textarea id="paymentStatusNotification"></textarea><br/>
 					Q6) Payment Closed Status via Search:<br/><textarea id="paymentStatusSearch"></textarea><br/>
-					</center>git remote add heroku git@heroku.com:project.git
+					</center>
 
 
 		      </div>

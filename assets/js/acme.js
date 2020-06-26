@@ -75,7 +75,8 @@ $(document).ready(function() {
 					// para recibir las notificaciones en tu endpoint público.
 
 					var orderJSON ={"external_reference": external_reference,
-									"notification_url": "https://gameofyou-mp-qr.herokuapp.com/api/notifications",
+									"notification_url": "https://gameofyou-mp-qr.herokuapp.com/api/notifications/",
+									//"notification_url": "http://0968cb9c4636.ngrok.io/api/notifications/",
 									"items" : items
 									};
 
